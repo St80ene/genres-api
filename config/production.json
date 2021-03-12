@@ -1,0 +1,6 @@
+{
+	"name": "node-project-production",
+    "mail": {
+        "host": "prod-mail-server"
+    }
+}
