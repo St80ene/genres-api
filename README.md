@@ -1,1 +1,1 @@
-# genre-api
+# genres-api
