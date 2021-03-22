@@ -1,5 +1,5 @@
 const authenticateFn = (req, res, next) => {
-	console.log(`Authenticating in process...`);
+	console.log(`Authenticated...`);
 	next();
 };
 

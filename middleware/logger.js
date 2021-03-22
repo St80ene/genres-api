@@ -1,5 +1,5 @@
 const logFn = (req, res, next) => {
-	console.log(`logging in process...`);
+	console.log(`logged in...`);
 	next();
 };
 

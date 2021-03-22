@@ -4,8 +4,8 @@ const router = express.Router();
 router.get('/', (req, res) => {
 	res.render('index', {
 		title: 'Vidly',
-		message: 'Hello world',
-		name: 'Etiene Essenoh',
+		message: 'Hello, You\'re welcome',
+		name: 'Customer!!',
 	});
 });
 
